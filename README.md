@@ -7,17 +7,16 @@ Puts it all into a nice report. (i should add cute characters to the report).
 
 
 ## Requirements
-###Packages
-[Python]([url](https://www.python.org/)) and something to run on (like VScode), you could also run this through a command prompt I think.
-Packages:
-[Biopython](https://biopython.org/)
-[Matplotlib](https://matplotlib.org/)
-[blast.exe](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html)
-[muscle.exe](https://drive5.com/muscle/downloads_v3.htm)
+###Packages and programs
+1.[Python]([url](https://www.python.org/)) and something to run on (like VScode), you could also run this through a command prompt I think.
+2.[Biopython](https://biopython.org/)
+3.[Matplotlib](https://matplotlib.org/)
+4.[blast.exe](https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html)
+5.[muscle.exe](https://drive5.com/muscle/downloads_v3.htm)
 
 ### Data
-A huge-ass fasta file that contains sequences that will be used for the blast search
-Your query sequence, also a fasta (the sequence can also be within a huge database). Note: when you are uploading your own query make sure they follow the standard naming format like this: sp|A0A075B706|TRDJ1_HUMAN T
+1.A huge-ass fasta file that contains sequences that will be used for the blast search
+2.Your query sequence, also a fasta (the sequence can also be within a huge database). Note: when you are uploading your own query make sure they follow the standard naming format like this: sp|A0A075B706|TRDJ1_HUMAN T
 
 ###This image(just keep it)
 ![cat](https://th.bing.com/th/id/OIP.bGYHV9PXpVn4CFAPFnzmbgHaD2?rs=1&pid=ImgDetMain)
