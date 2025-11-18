@@ -18,8 +18,7 @@
 1. A huge fasta file that contains sequences that will be used for the blast search
 2. Your query sequence, also a fasta (the sequence can also be within a huge database). Note: when you are uploading your own query make sure they follow the standard naming format like this: sp|A0A075B706|TRDJ1_HUMAN T
 
-### This image(just keep it)
-![cat](https://th.bing.com/th/id/OIP.bGYHV9PXpVn4CFAPFnzmbgHaD2?rs=1&pid=ImgDetMain)
+
 
 
 ## Running the program
@@ -35,10 +34,7 @@ you can add multiple queries, separating each by a comma.
 2. The reports are the outputs(PDF files).
 
 ### Things i dont know
-1. If this works with blastn 
-2. Why brown cows don't produce chocolate milk
-#### 
-![real](https://i0.wp.com/onpasture.com/wp-content/uploads/2018/01/Cow-on-bike.png?fit=375%2C293&ssl=1)
+1. If this works with blastn
 
 
 
