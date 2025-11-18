@@ -3,7 +3,7 @@
 1. Takes a protein from a sequence performs blastp against another sequence from the database.
 2. Aligns top hits with each other using muscle.
 3. Makes a phylogenetic tree of those hits.
-4. Puts it all into a nice report. (i should add cute characters to the report).
+4. Puts it all into a nice report.
 
 
 ## Requirements
