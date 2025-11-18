@@ -15,7 +15,7 @@
 5. [muscle.exe](https://drive5.com/muscle/downloads_v3.htm)
 
 ### Data
-1. A huge-ass fasta file that contains sequences that will be used for the blast search
+1. A huge fasta file that contains sequences that will be used for the blast search
 2. Your query sequence, also a fasta (the sequence can also be within a huge database). Note: when you are uploading your own query make sure they follow the standard naming format like this: sp|A0A075B706|TRDJ1_HUMAN T
 
 ### This image(just keep it)
